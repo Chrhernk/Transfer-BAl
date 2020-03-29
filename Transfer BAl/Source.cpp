@@ -35,7 +35,7 @@ int main()
 	accountHack(bankOfTerror, joesCoffeeShop);
 
 	// Then finally print the scores to show the balances have switched properly
-	cout << "\n\n\t ** Initializing Bank Balance hack (2/2) ** \n\n" << endl; 
+	cout << "\n\n\t ** Initializing Bank Balance hack (2/2) ** \n\n" << endl;   
 	cout << "Joe's Coffee Shop Account balance: $" << joesCoffeeShop << "." << endl;
 	cout << "Terrorist's balance: $" << bankOfTerror << "." << endl;
 	cout << "\n\n>> Hack successful..." << endl;
